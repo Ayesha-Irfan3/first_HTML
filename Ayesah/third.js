@@ -9,3 +9,5 @@ console.log("hi my name is ayesah");
 }
 
 secondNmae()
+
+console.log("hi everyone");
